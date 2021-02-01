@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T16:16:59.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.56" etag="R0dr1CAkQZ7ZIx9eVrDR" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T16:35:49.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.56" etag="uYSHzQ4AuLpSh6Thjgrh" version="14.2.9" type="github">
   <diagram id="goVIcfhjMYD4-KostjG-" name="Page-1">
     <mxGraphModel dx="1008" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,16 +26,25 @@
           <mxGeometry x="320" y="120" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HRCL9gJnR6TX9Oc49yHZ-6" value="...&lt;br&gt;4. Вызвать такси&lt;br&gt;..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="335" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-7" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HRCL9gJnR6TX9Oc49yHZ-6">
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-8" value="# П/П | Никнейм водителя | Расстояние&lt;br&gt;&lt;br&gt;1. Kirill_Litvin | 1.0 километр(а/ов)&lt;br&gt;2. Clinton_Jones | 1.5 километр(а/ов)&lt;br&gt;3. Sergey_Yakovlev | 1.8 километр(а/ов)&lt;br&gt;4. Pavel_Friman | 3.05 километр(а/ов)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="305" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-9" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="350" as="sourcePoint" />
-            <mxPoint x="280" y="360" as="targetPoint" />
+            <mxPoint x="440" y="359.5800000000001" as="sourcePoint" />
+            <mxPoint x="480" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="320" width="120" height="80" as="geometry" />
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-11" value="Вызвать такси&lt;br&gt;&lt;br&gt;1. Никнейм водителя: Kirill_Litvin&lt;br&gt;2. Расстояние: 1.0 километр(а/ов)&lt;br&gt;3. Компания: Яндекс.Такси&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;4. Автомобиль: Toyota Camry XV50&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-12" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HRCL9gJnR6TX9Oc49yHZ-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="270" as="sourcePoint" />
+            <mxPoint x="200" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
