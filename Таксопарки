@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T18:28:53.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.56" etag="jqL24roN5qaSD6_Rjvmq" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T18:30:01.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.56" etag="ne9Ur54NShXJE8k2bfCT" version="14.2.9" type="github">
   <diagram id="goVIcfhjMYD4-KostjG-" name="Page-1">
     <mxGraphModel dx="1008" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
             <mxPoint x="414" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-5" value="Выбор бренда:&lt;br&gt;1. OnTaxi (Бесплатно)&lt;br&gt;2. Uklon (Бесплатно)&lt;br&gt;3. Ситимобил (500.000 рублей)&lt;br&gt;4. UBER (1.000.000 рублей)&lt;br&gt;5. Яндекс.Такси (1.000.000 рублей)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-5" value="Выбор бренда:&lt;br&gt;1. OnTaxi (Бесплатно)&lt;br&gt;2. Uklon (Бесплатно)&lt;br&gt;3. Ситимобил (500.000 рублей)&lt;br&gt;4. UBER (1.000.000 рублей)&lt;br&gt;5. Яндекс.Такси (1.500.000 рублей)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="120" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HRCL9gJnR6TX9Oc49yHZ-6" value="...&lt;br&gt;4. Вызвать такси&lt;br&gt;..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
