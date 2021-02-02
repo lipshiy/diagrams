@@ -1,68 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T18:30:01.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.56" etag="ne9Ur54NShXJE8k2bfCT" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T20:14:50.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.56" etag="Ke6mekk4wvaf5NPewoNN" version="14.2.9" type="github">
   <diagram id="goVIcfhjMYD4-KostjG-" name="Page-1">
-    <mxGraphModel dx="1008" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2036" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-1" value="Таксопарк Батырево" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-1" value="Таксопарк Батырево (OnTaxi)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="40" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-2" value="Таксопарк Арзамас&amp;nbsp; &lt;br&gt;или Батырево" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="40" width="120" height="40" as="geometry" />
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-2" value="Таксопарк Арзамас&amp;nbsp; &lt;br&gt;или Батырево (Uklon)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="40" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-3" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HRCL9gJnR6TX9Oc49yHZ-1">
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-3" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HRCL9gJnR6TX9Oc49yHZ-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="364" y="120" as="sourcePoint" />
             <mxPoint x="414" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-4" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HRCL9gJnR6TX9Oc49yHZ-2">
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-4" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HRCL9gJnR6TX9Oc49yHZ-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="364" y="90" as="sourcePoint" />
             <mxPoint x="414" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-5" value="Выбор бренда:&lt;br&gt;1. OnTaxi (Бесплатно)&lt;br&gt;2. Uklon (Бесплатно)&lt;br&gt;3. Ситимобил (500.000 рублей)&lt;br&gt;4. UBER (1.000.000 рублей)&lt;br&gt;5. Яндекс.Такси (1.500.000 рублей)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-5" value="Возможность сменить бренд за коины&lt;br&gt;1. Ситимобил&lt;br&gt;2. UBER&lt;br&gt;3. Яндекс.Такси" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="314" y="120" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-6" value="...&lt;br&gt;4. Вызвать такси&lt;br&gt;..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="315" width="120" height="50" as="geometry" />
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-8" value="&lt;b&gt;# П/П | Никнейм водителя | Расстояние&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. Kirill_Litvin | 1.0 километр(а/ов)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. Clinton_Jones | 1.5 километр(а/ов)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. Sergey_Yakovlev | 1.8 километр(а/ов)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;4. Pavel_Friman | 3.05 километр(а/ов)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="280" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-8" value="# П/П | Никнейм водителя | Расстояние&lt;br&gt;&lt;br&gt;1. Kirill_Litvin | 1.0 километр(а/ов)&lt;br&gt;2. Clinton_Jones | 1.5 километр(а/ов)&lt;br&gt;3. Sergey_Yakovlev | 1.8 километр(а/ов)&lt;br&gt;4. Pavel_Friman | 3.05 километр(а/ов)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="280" width="240" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-9" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRCL9gJnR6TX9Oc49yHZ-8" target="HRCL9gJnR6TX9Oc49yHZ-11">
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-9" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HRCL9gJnR6TX9Oc49yHZ-8" target="HRCL9gJnR6TX9Oc49yHZ-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="409.5800000000001" as="sourcePoint" />
-            <mxPoint x="510" y="410" as="targetPoint" />
+            <mxPoint x="480" y="409.5800000000001" as="sourcePoint" />
+            <mxPoint x="520" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-11" value="Вызов такси&lt;br&gt;&lt;br&gt;1. Никнейм водителя: Kirill_Litvin&lt;br&gt;2. Расстояние: 1.0 километр(а/ов)&lt;br&gt;3. Компания: Яндекс.Такси&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;4. Автомобиль: Toyota Camry XV50&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="270" width="230" height="140" as="geometry" />
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-11" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Вызов такси&lt;/b&gt;&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. Никнейм водителя: Kirill_Litvin&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. Расстояние: 1.0 километр(а/ов)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. Компания: Яндекс.Такси&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;4. Автомобиль: Toyota Camry XV50&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;5. Рейтинг водителя: 4,2 звезды из 5&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="270" width="230" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-12" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HRCL9gJnR6TX9Oc49yHZ-8">
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-12" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="HRCL9gJnR6TX9Oc49yHZ-8" edge="1" source="HRCL9gJnR6TX9Oc49yHZ-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="340" as="sourcePoint" />
-            <mxPoint x="230" y="340" as="targetPoint" />
+            <mxPoint x="170" y="340" as="sourcePoint" />
+            <mxPoint x="210" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="8" y="240" as="sourcePoint" />
             <mxPoint x="818" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Общая концепция&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Общая концепция&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="334" y="10" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Меню /call&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="334" y="250" width="160" height="20" as="geometry" />
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Меню /call&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="334" y="248" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="9.000000000000114" y="440" as="sourcePoint" />
-            <mxPoint x="819" y="440" as="targetPoint" />
+            <mxPoint x="9.000000000000114" y="430" as="sourcePoint" />
+            <mxPoint x="819" y="430" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HRCL9gJnR6TX9Oc49yHZ-6" value="...&lt;br&gt;4. Вызвать такси&lt;br&gt;..." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="315" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_n3-Dlw1muMLxKpRdOY6-2" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Контроль качества&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Ваша поездка завершена.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Пожалуйста, оцените качество работы нашего сервиса&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;★★★★★&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;★★★★&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;★★★&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;★★&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;★&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Назад / Выбрать&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="487" width="330" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="_n3-Dlw1muMLxKpRdOY6-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;После выхода игрока из автомобиля такси у него появляется следующее диалоговое окно:&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="229" y="450" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_n3-Dlw1muMLxKpRdOY6-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="680" as="sourcePoint" />
+            <mxPoint x="810" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_n3-Dlw1muMLxKpRdOY6-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Статистика водителя:&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="299" y="685" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_n3-Dlw1muMLxKpRdOY6-6" value="&lt;b&gt;1. Никнейм: &lt;/b&gt;Kirill_Litvin&lt;br&gt;&lt;b&gt;2. Дата принятия в таксопарк: &lt;/b&gt;23:10 02/02/2021&lt;br&gt;&lt;b&gt;3. Уровень навыка: &lt;/b&gt;20&lt;br&gt;&lt;b&gt;4. Количество выполненных заказов:&lt;/b&gt; 50&lt;br&gt;&lt;b&gt;5. Количество отклоненных заказов: &lt;/b&gt;10" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="269" y="720" width="290" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
